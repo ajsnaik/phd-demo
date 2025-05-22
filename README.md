@@ -1,6 +1,8 @@
 # phd-demo
 Random 
-
+<br>
 Author - Ajinkya Naik
-Current status - PhD 1st year
+<br>
+Current status - PhD 1st 
+<br>
 Institution - Department of Computer Science and Engineering. IIT Bombay
